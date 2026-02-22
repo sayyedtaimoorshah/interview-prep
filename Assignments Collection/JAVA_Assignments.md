@@ -52,7 +52,7 @@ This repository contains a comprehensive list of programming problems organized 
 
 ### Assignment-6 | Conversions & Logic
 
-1. Assume 1 USD = 84.23 INR. Take amount in INR and convert to USD.
+1. Assume 1 USD = 184.23 PKR. Take amount in PKR and convert to USD.
 2. Take a three-digit number and rotate its digits by one position towards the right.
 3. What is the value of `x` after: `boolean x = 10 > 8 > 4;` (Note: In Java, this needs proper logic like `10 > 8 && 8 > 4`).
 4. What is the value of `x` after: `x = ! (2 > -2);`
